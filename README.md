@@ -18,4 +18,4 @@ PocketWise is a beginner-friendly personal finance app designed for young profes
 - JavaScript
 
 ## How to Run
-Open index.html in your browser
+Open pocket.html in your browser
